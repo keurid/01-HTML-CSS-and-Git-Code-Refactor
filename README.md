@@ -18,3 +18,6 @@ What are the steps required to install your project? Provide a step-by-step desc
 Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+## Credits
+The starter code that was used in this program originates from Xandromus (https://github.com/coding-boot-camp/urban-octo-telegram)
