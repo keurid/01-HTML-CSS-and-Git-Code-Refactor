@@ -9,14 +9,17 @@ I learned about the different HTML semantic tags to make my code more readable t
 
 ## Installation
 
-To get the development environment running, first you need to clone the repository by going to https://github.com/keurid/01-HTML-CSS-and-Git-Code-Refactor
-then copying the link by pressing this butt 
+To get the development environment running, first you need to clone the repository by going to 
+https://github.com/keurid/01-HTML-CSS-and-Git-Code-Refactor
+then copying the link by pressing this button <img src=".assets\images\step1.PNG" alt="First Step"/>
+after that you can open your Git Bash to clone to repository and access this repository by typing this
+<img src=".assets\images\step2.PNG" alt="Second Step"/>
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+<img src=".assets\images\body.PNG" alt="Usage of Program"/>
+Now you can access the code and see all changes made.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
 ## Credits
 The starter code that was used in this program originates from Xandromus (https://github.com/coding-boot-camp/urban-octo-telegram)
