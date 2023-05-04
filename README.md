@@ -4,8 +4,8 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- What was your motivation? My Motivation was to make the HTML semantics easier to read and make the tags to the appropriate areas.
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.") I built this project to add accesibility when it comes to reading the code and alternative text to the images.
 - What problem does it solve?
 - What did you learn?
 
