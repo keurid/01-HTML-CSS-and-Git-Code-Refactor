@@ -9,7 +9,8 @@ I learned about the different HTML semantic tags to make my code more readable t
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+To get the development environment running, first you need to clone the repository by going to https://github.com/keurid/01-HTML-CSS-and-Git-Code-Refactor
+then copying the link by pressing this butt 
 
 ## Usage
 
