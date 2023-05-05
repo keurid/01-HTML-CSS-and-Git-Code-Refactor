@@ -11,13 +11,13 @@ I learned about the different HTML semantic tags to make my code more readable t
 
 To get the development environment running, first you need to clone the repository by going to 
 https://github.com/keurid/01-HTML-CSS-and-Git-Code-Refactor
-then copying the link by pressing this button <img src=".assets\images\step1.PNG" alt="First Step"/>
+then copying the link by pressing this button ![step1](assets/images/step1.PNG)
 after that you can open your Git Bash to clone to repository and access this repository by typing this
-<img src=".assets\images\step2.PNG" alt="Second Step"/>
+![step2](assets/images/step2.PNG)
 
 ## Usage
 
-<img src=".assets\images\body.PNG" alt="Usage of Program"/>
+![body](assets/images/body.PNG)
 Now you can access the code and see all changes made.
 
 
